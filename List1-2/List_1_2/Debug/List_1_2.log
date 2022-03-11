@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(43,27): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(59,15): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(59,28): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(63,15): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(67,15): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(70,31): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(72,31): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\List_1_2\main.c(83,46): warning C4133: '=': incompatible types - from 'polyNode *' to 'polyNode *'
+  List_1_2.vcxproj -> C:\Users\Junmo Jang\source\repos\자료구조 과제1-2\Debug\List_1_2.exe

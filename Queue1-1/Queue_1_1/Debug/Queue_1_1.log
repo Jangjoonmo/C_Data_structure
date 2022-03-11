@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-1 201721707 장준모\Queue_1_1\main.c(27,6): warning C4013: 'free' undefined; assuming extern returning int
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-1 201721707 장준모\Queue_1_1\main.c(59,21): warning C4013: 'malloc' undefined; assuming extern returning int
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-1 201721707 장준모\Queue_1_1\main.c(59,40): warning C4047: '=': 'char *' differs in levels of indirection from 'int'
+C:\Users\Junmo Jang\source\repos\자료구조 과제1-1 201721707 장준모\Queue_1_1\main.c(85,7): warning C4013: 'exit' undefined; assuming extern returning int
+  Queue_1_1.vcxproj -> C:\Users\Junmo Jang\source\repos\자료구조 과제1-1 201721707 장준모\Debug\Queue_1_1.exe
