@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Junmo Jang\source\repos\자료구조 4_2\자료구조 4_2\main.c(85,35): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\Junmo Jang\source\repos\자료구조 4_2\자료구조 4_2\main.c(85,28): warning C4024: 'hashFunction': different types for formal and actual parameter 1
+  자료구조 4_2.vcxproj -> C:\Users\Junmo Jang\source\repos\자료구조 4_2\Debug\자료구조 4_2.exe
